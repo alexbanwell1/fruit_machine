@@ -1,1 +1,1 @@
-# fruit_machine
+# Fruit Machine
